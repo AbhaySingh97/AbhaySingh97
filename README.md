@@ -1,8 +1,8 @@
 # 💫 About Me:
 Building AI/ML & IoT projects that solve real-world problems<br>
 Exploring Computer Vision, Machine Learning & Intelligent Systems<br>
-Working with Python, C++, OpenCV, YOLO, Arduino & ESP32<br>
-Interested in AI-powered automation and embedded systems<br>
+Working with Python, C++, OpenCV,MERN stack, Arduino & ESP32<br>
+AI-powered automation and embedded systems<br>
 Building projects from prototype → working system<br>
 Open to collaborations, research & innovative projects<br>
 B.Tech CSE student | Always building, experimenting & learning
